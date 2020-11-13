@@ -1,13 +1,13 @@
-# CC Projects
+# Lab 1 Bonus
 
  Describe the output of a scanner (can be
 a sample sourced online or developed by yourself 
-# Features
 
-Counts sets of numbers in a file
+
+*Counts sets of numbers in a file*
 
 ## Requirements
-* Flex
+- Flex
 
 ## Run scripts
 
