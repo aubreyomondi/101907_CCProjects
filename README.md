@@ -1,5 +1,5 @@
-# Compile Construction
+# Compiler Construction
 
->Lab1 and Lab2 using lex and bonus using flex.
+- Implementation of lab projects for Compiler Construction unit.
 
->Run scripts using a `Makefile`  included.
+- *Lab1* and *Lab2* implemented using lex and flex. For submission as Lab Milestone 1.
