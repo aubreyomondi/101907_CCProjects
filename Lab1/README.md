@@ -1,28 +1,27 @@
-# CC Projects
-
+# Lab 1
 
 Implement a simple lexical analyzer
 (languages C or C++) 
 
-# Features
-  - The generated scanner can be used to scan config files.
+*Generated a scanner that can be used to scan config files.*
 
-Properties
-  - db
-  - port
+Config files properties:
+- db
+- port
 
 
 ## Requirements
-* Lex
-* gcc
+- Lex
+- gcc
 
 
-### Valid config.yaml file
+### Example of a valid config.yaml file
 ```sh
   db: mysql
   port: 3306
 ```
 
+Configuration - Test Success - Test Fail:
 - db - name syntax OK {name} - Syntax error on line {lineno}, {error} 
 -  port - port syntax OK {port} - Syntax error on line {lineno},  {error} 
 
