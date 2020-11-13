@@ -1,12 +1,11 @@
-# CC Projects
+# Lab 2 Bonus
 
-Download and use Flex in anyway (Flex is an open source tool for developing a lexical analyzer 
-# Features
-
-  - Replaces all numbers types with an octothorp followed by the word Numbers (#Numbers)
+Download and use Flex in anyway (Flex is an open source tool for developing a lexical analyzer.
+ 
+*Replaces all numbers types with an octothorp followed by the word Numbers (#Numbers)*
 
 ## Requirements
-* Flex
+- Flex
 
 ## Run Scripts
 ```sh
