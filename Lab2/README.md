@@ -1,6 +1,6 @@
-# Lexical Analysis
+# Lab 2
 
-The lexical analysis is the first step in the compilation process. A scanner produces a stream of tokens from the input source file.
+**Lexical analysis** is the first step in the compilation process. A scanner produces a stream of tokens from the input source file.
 
 
 >To illustrate the scanner process the source in Lab1 will be used to explain the process.
@@ -19,7 +19,7 @@ The Declaration and subroutines i.e the first part and third part are optional.
 The middle section consists of rules that lex translates into the lexical analyzer. Each rule consists of regular expression and code to run when regular expression is matched. 
 Unmatched text is copied to standard outThe regular expressions are defined in the middle part in the following format.
 
-| pattern   | action            |
+| re pattern| result            |
 |-----------|-------------------|
 | [0-9]+    | printf("Number"); |
 | [a-zA-Z]+ | printf("Letter"); |
